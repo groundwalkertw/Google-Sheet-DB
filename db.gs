@@ -1,0 +1,5 @@
+class modelInstance{
+  constructor(obj){
+  
+  }
+}
